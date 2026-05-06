@@ -1,0 +1,18 @@
+{
+    "name": "Pixel Serpent",
+    "short_name": "Serpent",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0A0A0F",
+    "theme_color": "#00F2FF",
+    "description": "Retro-modern neon snake game.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
